@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'K6',
+    description: 'Custom Kasm workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://berlinlee-phoenix.github.io/kasm-registry',
     contactUrl: 'https://kasmweb.com/support',
