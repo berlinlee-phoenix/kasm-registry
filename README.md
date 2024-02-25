@@ -1,3 +1,7 @@
+# I'm just an IT user enjoying this community edition of Kasm Workspaces (Container streaming platform) of Kasm Technologies via this repository
+# I personally do NOT own any assets/knowledge/patents from 2023, Kasm Technologies
+# All rights reserved by 2023, Kasm Technologies
+##
 <h1 align="center">
   <br>
   <img width="150" src="https://user-images.githubusercontent.com/5698566/230345149-ef757e51-6eb9-479d-94f5-a13e4ad33b03.png">
